@@ -1,4 +1,4 @@
-# Terraform
+![Terraform](https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/images/tf_aws.png)
 
 Este repositorio contiene laboratorios de pruebas para poder configurar AWS de forma automatizada desde Terraform.
 
